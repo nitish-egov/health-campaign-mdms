@@ -13,12 +13,7 @@
           "productVariantId": "PVAR-2024-03-21-000026",
           "isBaseUnitVariant": false
         }
-      ],
-      "dashboardUrls": {
-        "NATIONAL_SUPERVISOR": "/health-ui/employee/dss/landing/national-health-dashboard",
-        "PROVINCIAL_SUPERVISOR": "/health-ui/employee/dss/dashboard/provincial-health-dashboard",
-        "DISTRICT_SUPERVISOR": "/health-ui/employee/dss/dashboard/district-health-dashboard"
-      }
+      ]
     },
     {
       "id": "b1107f0c-7a91-4c76-afc2-a279d8a7b76a",
@@ -56,11 +51,7 @@
                   "condition": "3<=age<11",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2024-03-21-000023",
-                      "quantity": 1
-                    },
-                    {
-                      "productVariantId": "PVAR-2024-03-21-000025",
+                      "productVariantId": "PVAR-2024-03-21-000022",
                       "quantity": 1
                     }
                   ]
@@ -68,10 +59,6 @@
                 {
                   "condition": "12<=age<60",
                   "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2024-03-21-000022",
-                      "quantity": 1
-                    },
                     {
                       "productVariantId": "PVAR-2024-03-21-000024",
                       "quantity": 1
@@ -89,7 +76,7 @@
                   "condition": "3<=age<11",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2024-03-21-000023",
+                      "productVariantId": "PVAR-2024-03-21-000022",
                       "quantity": 1
                     }
                   ]
@@ -98,7 +85,7 @@
                   "condition": "12<=age<60",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2024-03-21-000025",
+                      "productVariantId": "PVAR-2024-03-21-000024",
                       "quantity": 1
                     }
                   ]
@@ -149,10 +136,6 @@
                     {
                       "productVariantId": "PVAR-2024-03-21-000022",
                       "quantity": 1
-                    },
-                    {
-                      "productVariantId": "PVAR-2024-03-21-000024",
-                      "quantity": 1
                     }
                   ]
                 },
@@ -160,11 +143,7 @@
                   "condition": "12<=age<60",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2024-03-21-000023",
-                      "quantity": 1
-                    },
-                    {
-                      "productVariantId": "PVAR-2024-03-21-000025",
+                      "productVariantId": "PVAR-2024-03-21-000024",
                       "quantity": 1
                     }
                   ]
@@ -205,7 +184,7 @@
                   "condition": "3<=age<11",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2024-03-21-000023",
+                      "productVariantId": "PVAR-2024-03-21-000022",
                       "quantity": 1
                     }
                   ]
@@ -214,7 +193,7 @@
                   "condition": "12<=age<60",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2024-03-21-000025",
+                      "productVariantId": "PVAR-2024-03-21-000024",
                       "quantity": 1
                     }
                   ]
@@ -222,40 +201,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "192a20d1-0edd-4108-925a-f37bf544d6c4",
-      "name": "Project type configuration for IRS - Nampula Campaigns",
-      "code": "LLIN-mz",
-      "group": "IRS - Nampula",
-      "beneficiaryType": "HOUSEHOLD",
-      "eligibilityCriteria": [
-        "All households are eligible."
-      ],
-      "dashboardUrls": {
-        "NATIONAL_SUPERVISOR": "/digit-ui/employee/dss/landing/national-health-dashboard",
-        "PROVINCIAL_SUPERVISOR": "/digit-ui/employee/dss/dashboard/provincial-health-dashboard",
-        "DISTRICT_SUPERVISOR": "/digit-ui/employee/dss/dashboard/district-health-dashboard"
-      },
-      "taskProcedure": [
-        "1 DDT is to be distributed per house.",
-        "1 Malathion is to be distributed per house.",
-        "1 Pyrethroid is to be distributed per house."
-      ],
-      "resources": [
-        {
-          "productVariantId": "PVAR-2024-02-22-000038",
-          "isBaseUnitVariant": true
-        },
-        {
-          "productVariantId": "PVAR-2024-02-22-000039",
-          "isBaseUnitVariant": true
-        },
-        {
-          "productVariantId": "PVAR-2024-02-22-000040",
-          "isBaseUnitVariant": true
         }
       ]
     }
