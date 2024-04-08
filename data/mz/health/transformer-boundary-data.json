@@ -1,0 +1,193 @@
+{
+  "tenantId": "mz",
+  "moduleName": "HCM-BOUNDARY-HIERARCHY",
+  "boundaryHierarchies": [
+    {
+      "id": "dbd45c31-de9e-4e62-a9b6-abb818928fd1",
+      "name": "mz project type configuration for LLIN Campaigns",
+      "code": "LLIN-mz",
+      "group": "MALARIA",
+      "beneficiaryType": "HOUSEHOLD",
+      "resources": [
+        {
+          "productVariantId": "PVAR-2024-03-21-000026",
+          "isBaseUnitVariant": false
+        }
+      ],
+      "boundaryData": {
+        "boundaryHierarchy": [
+          {
+            "level": 0,
+            "label": null,
+            "indexLabel": null
+          },
+          {
+            "level": 1,
+            "label": "Country",
+            "indexLabel": "country"
+          },
+          {
+            "level": 2,
+            "label": "Provincia",
+            "indexLabel": "province"
+          },
+          {
+            "level": 3,
+            "label": "Distrito",
+            "indexLabel": "district"
+          },
+          {
+            "level": 4,
+            "label": "Posto Administrativo",
+            "indexLabel": "administrativeProvince"
+          },
+          {
+            "level": 5,
+            "label": "Localidade",
+            "indexLabel": "locality"
+          },
+          {
+            "level": 6,
+            "label": "Aldeia",
+            "indexLabel": "village"
+          }
+        ],
+        "aggregateTarget": {
+          "level": 6,
+          "label": "Village"
+        },
+        "targetColumnHeaders": [
+          "total_households",
+          "targeted_households",
+          "total_individuals",
+          "targeted_individuals",
+          "estimated_bednets"
+        ],
+        "totalVsTarget": [
+          {
+            "total": "total_households",
+            "target": "targeted_households"
+          },
+          {
+            "total": "total_individuals",
+            "target": "targeted_individuals"
+          },
+          {
+            "total": "total_bednets",
+            "target": "estimated_bednets"
+          }
+        ],
+        "projectTargets": [
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "targeted_individuals"
+          },
+          {
+            "beneficiarytype": "HOUSEHOLD",
+            "targetedColumn": "targeted_households"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "estimated_bednets"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b1107f0c-7a91-4c76-afc2-a279d8a7b76a",
+      "name": "Mozambique specific configuration for SMC Campaigns",
+      "code": "LLIN-Moz_individual",
+      "group": "MALARIA",
+      "type": "multiround",
+      "beneficiaryType": "INDIVIDUAL",
+      "resources": [
+        {
+          "productVariantId": "PVAR-2024-03-21-000022",
+          "isBaseUnitVariant": false
+        },
+        {
+          "productVariantId": "PVAR-2024-03-21-000024",
+          "isBaseUnitVariant": true
+        }
+      ],
+      "boundaryData": {
+        "boundaryHierarchy": [
+          {
+            "level": 0,
+            "label": null,
+            "indexLabel": null
+          },
+          {
+            "level": 1,
+            "label": "Country",
+            "indexLabel": "country"
+          },
+          {
+            "level": 2,
+            "label": "Provincia",
+            "indexLabel": "province"
+          },
+          {
+            "level": 3,
+            "label": "Distrito",
+            "indexLabel": "district"
+          },
+          {
+            "level": 4,
+            "label": "Posto Administrativo",
+            "indexLabel": "administrativeProvince"
+          },
+          {
+            "level": 5,
+            "label": "Localidade",
+            "indexLabel": "locality"
+          },
+          {
+            "level": 6,
+            "label": "Aldeia",
+            "indexLabel": "village"
+          }
+        ],
+        "aggregateTarget": {
+          "level": 6,
+          "label": "Village"
+        },
+        "targetColumnHeaders": [
+          "total_households",
+          "targeted_households",
+          "total_individuals",
+          "targeted_individuals",
+          "estimated_bednets"
+        ],
+        "totalVsTarget": [
+          {
+            "total": "total_households",
+            "target": "targeted_households"
+          },
+          {
+            "total": "total_individuals",
+            "target": "targeted_individuals"
+          },
+          {
+            "total": "total_bednets",
+            "target": "estimated_bednets"
+          }
+        ],
+        "projectTargets": [
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "targeted_individuals"
+          },
+          {
+            "beneficiarytype": "HOUSEHOLD",
+            "targetedColumn": "targeted_households"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "estimated_bednets"
+          }
+        ]
+      }
+    }
+  ]
+}
