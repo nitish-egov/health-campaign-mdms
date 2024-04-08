@@ -1,6 +1,6 @@
 {
   "tenantId": "mz",
-  "moduleName": "HCM-BOUNDARY-HIERARCHY",
+  "moduleName": "hcm-boundary-hierarchy",
   "boundaryHierarchies": [
     {
       "id": "dbd45c31-de9e-4e62-a9b6-abb818928fd1",
