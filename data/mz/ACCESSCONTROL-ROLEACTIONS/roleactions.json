@@ -117,7 +117,7 @@
       "tenantId": "mz"
     },
     {
-      "rolecode": "DISTRIBUTOR",
+      "rolecode": "WAREHOUSE_MANAGER",
       "actionid": 1629,
       "actioncode": "",
       "tenantId": "mz"
