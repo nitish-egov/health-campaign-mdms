@@ -78,6 +78,7 @@
                 {
                     "type": "component",
                     "component": "SelectEmployeeDepartment",
+                    "isMandatory": true,
                     "key": "SelectEmployeeDepartment",
                     "withoutLabel": true
                 }
