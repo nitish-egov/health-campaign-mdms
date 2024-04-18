@@ -88,6 +88,18 @@
         {
           "name": "HF_RF_DRUG_SE_CC",
           "code": "HF_RF_DRUG_SE_CC"
+        },
+        {
+          "name": "COVER_SHEET_ENTRY",
+          "code": "COVER_SHEET_ENTRY"
+        },
+        {
+          "name": "STAFF_SURVEY",
+          "code": "STAFF_SURVEY"
+        },
+        {
+          "name": "COVER_SHEET_EXIT",
+          "code": "COVER_SHEET_EXIT"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
