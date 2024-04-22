@@ -17674,12 +17674,6 @@
     },
     {
       "rolecode": "DISTRICT_SUPERVISOR",
-      "actionid": 1808,
-      "actioncode": "",
-      "tenantId": "mz"
-    },
-    {
-      "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1809,
       "actioncode": "",
       "tenantId": "mz"
