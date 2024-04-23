@@ -14757,6 +14757,76 @@
       "serviceCode": "attendance-service",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 1826,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "NATIONAL_DASHBOARD",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/national",
+      "path": "iframe.HCM",
+      "leftIcon": ""
+    },
+    {
+      "id": 1827,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "PROVINCE_DASHBOARD",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/province?query=true",
+      "path": "iframe.HCM",
+      "leftIcon": ""
+    },
+    {
+      "id": 1828,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "DISTRICT_DASHBOARD",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/district?query=true",
+      "path": "iframe.HCM",
+      "leftIcon": ""
+    },
+    {
+      "id": 1829,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "Home",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/home",
+      "path": "iframe.HCM",
+      "leftIcon": ""
+    },
+     {
+      "id": 1830,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "HF_DASHBOARD",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/hf?query=true",
+      "path": "iframe.HCM",
+      "leftIcon": ""
     }
   ]
 }

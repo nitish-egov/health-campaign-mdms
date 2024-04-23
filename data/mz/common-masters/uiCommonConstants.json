@@ -1,0 +1,36 @@
+{
+  "tenantId": "mz",
+  "moduleName": "common-masters",
+  "uiCommonConstants": [
+    {
+      "elastic": {
+        "iframe-routes": {
+          "home": {
+            "routePath": "/kibana/login",
+            "isOrigin": true
+          },
+          "national": {
+            "routePath": "/kibana/app/dashboards#/view/1d7222a0-0152-11ef-821a-2fe4b3554139?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+            "isOrigin": true,
+            "title": "NATIONAL_DASHBOARD"
+          },
+          "district": {
+            "routePath": "/kibana/app/dashboards#/view/69d01c30-d00e-11ee-a631-9d8465121de3?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+            "isOrigin": true,
+            "title": "DISTRICT_DASHBOARD"
+          },
+          "province": {
+            "routePath": "/kibana/app/dashboards#/view/95cef51b-9ec0-4ca0-aee0-d312ffbf3f23?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+            "isOrigin": true,
+            "title": "PROVINCE_DASHBOARD"
+          },
+          "hf": {
+            "routePath": "/kibana/app/dashboards#/view/f3275f70-d2ed-11ee-a631-9d8465121de3?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+            "isOrigin": true,
+            "title": "LOCALITY_DASHBOARD"
+          }
+        }
+      }
+    }
+  ]
+}
