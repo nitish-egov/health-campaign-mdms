@@ -3543,42 +3543,6 @@
       "tenantid": "mz"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 702,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 703,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 704,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 705,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 706,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 707,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
       "rolecode": "GRO",
       "actionid": 309,
       "actioncode": "",
@@ -3605,12 +3569,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 309,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 708,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -3647,12 +3605,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 311,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 709,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -3665,18 +3617,6 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 310,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 710,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 711,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -3800,12 +3740,7 @@
       "actioncode": "",
       "tenantid": "mz"
     },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 712,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
+
     {
       "rolecode": "CITIZEN",
       "actionid": 324,
@@ -3863,18 +3798,6 @@
     {
       "rolecode": "Asset Administrator",
       "actionid": 278,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 713,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 714,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -4049,30 +3972,6 @@
     {
       "rolecode": "EMPLOYEE ADMIN",
       "actionid": 278,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 715,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 716,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 717,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 718,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -4270,19 +4169,7 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 719,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 355,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 720,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -4293,20 +4180,8 @@
       "tenantid": "mz"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 721,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
       "rolecode": "EMPLOYEE ADMIN",
       "actionid": 355,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 722,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -5014,331 +4889,7 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 515,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 516,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 517,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 518,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 519,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 520,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 521,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 522,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 523,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 524,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 525,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 526,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 527,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 528,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 529,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 530,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 531,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 532,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 533,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 534,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 535,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 536,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 537,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 538,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 539,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 540,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 541,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 542,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 543,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 544,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 545,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 546,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 547,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 548,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 549,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 550,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 551,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 552,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 553,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 554,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 555,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 556,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 557,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 558,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 559,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 560,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 561,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 562,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 563,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 564,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 565,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 566,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 567,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 568,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 569,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -5369,48 +4920,6 @@
     {
       "rolecode": "PTIS_ADMIN",
       "actionid": 514,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 515,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 518,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 518,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 518,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 516,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 516,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 516,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -5420,324 +4929,7 @@
       "actioncode": "",
       "tenantid": "mz"
     },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 519,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 520,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 521,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 522,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 523,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 524,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 525,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 526,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 527,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 528,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 529,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 530,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 531,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 532,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 533,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 534,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 535,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 536,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 537,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 538,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 539,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 540,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 541,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 542,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 543,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 544,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 545,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 546,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 547,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 548,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 549,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 550,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 551,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 552,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 553,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_MASTER",
-      "actionid": 554,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 555,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 556,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 557,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 558,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 559,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 560,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 561,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 562,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 563,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 564,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 565,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "PTIS_ADMIN",
-      "actionid": 566,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 567,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 568,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 569,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 569,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 569,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
+
     {
       "rolecode": "CITIZEN",
       "actionid": 695,
@@ -5890,18 +5082,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 602,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 603,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 605,
       "actioncode": "",
       "tenantid": "mz"
@@ -5927,24 +5107,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 608,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 609,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 610,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 611,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -6808,61 +5970,7 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 739,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 739,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 740,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 740,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 741,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 741,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 742,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 742,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 743,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 744,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -6910,241 +6018,7 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 747,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 747,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 748,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 748,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 749,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 749,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 750,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 750,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 751,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 751,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 752,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 752,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 753,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 753,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 754,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 754,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 755,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 755,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 756,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 756,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 757,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 757,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 758,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 758,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 759,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 759,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 760,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 760,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 761,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 761,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 762,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 762,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 763,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 763,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 764,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 764,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 765,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 765,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 766,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 766,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -7163,24 +6037,6 @@
     {
       "rolecode": "SRC",
       "actionid": 768,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 770,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 771,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 772,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -7239,30 +6095,6 @@
       "tenantid": "mz"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 781,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 782,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 783,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 784,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
       "rolecode": "SRA",
       "actionid": 785,
       "actioncode": "",
@@ -7275,42 +6107,6 @@
       "tenantid": "mz"
     },
     {
-      "rolecode": "TL_CREATOR",
-      "actionid": 787,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 787,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 787,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 788,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 788,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 788,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 789,
       "actioncode": "",
@@ -7319,54 +6115,6 @@
     {
       "rolecode": "SRA",
       "actionid": 790,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 791,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 791,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 713,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 713,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 713,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 703,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 703,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 703,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -7396,222 +6144,6 @@
     },
     {
       "rolecode": "ULB Operator",
-      "actionid": 523,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 526,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 530,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 534,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 535,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 537,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 541,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 521,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 544,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 547,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 550,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 553,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 523,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 526,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 530,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 534,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 535,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 537,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 541,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 521,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 544,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 547,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 550,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 553,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 523,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 526,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 530,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 534,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 535,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 537,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 541,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 521,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 544,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 547,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 550,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 553,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
       "actionid": 615,
       "actioncode": "",
       "tenantid": "mz"
@@ -7733,24 +6265,6 @@
     {
       "rolecode": "Property Approver",
       "actionid": 619,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 704,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 704,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 704,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -7775,12 +6289,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 793,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 794,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -7929,84 +6437,6 @@
       "tenantid": "mz"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 809,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 809,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 809,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 809,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 810,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 810,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 810,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 810,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 722,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 722,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 722,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 814,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 814,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
       "rolecode": "EMPLOYEE ADMIN",
       "actionid": 815,
       "actioncode": "",
@@ -8026,67 +6456,13 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 819,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 820,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 821,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 818,
       "actioncode": "",
       "tenantid": "mz"
     },
     {
       "rolecode": "TL_ADMIN",
-      "actionid": 819,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 820,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 821,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
       "actionid": 818,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 819,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 820,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 821,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -8111,120 +6487,6 @@
     {
       "rolecode": "EMPLOYEE ADMIN",
       "actionid": 824,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 839,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 839,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 839,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 840,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 840,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 840,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 840,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 841,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 841,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 841,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 841,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 842,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 843,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 844,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 845,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 842,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 843,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 844,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 845,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -8279,150 +6541,6 @@
     {
       "rolecode": "TL_ADMIN",
       "actionid": 852,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 853,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 854,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 855,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 856,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 856,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 856,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 856,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 857,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 857,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 857,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 857,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 858,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 858,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 858,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 858,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 859,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 859,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 859,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 859,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 860,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 860,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 860,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 860,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 862,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -8566,24 +6684,6 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 710,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 706,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 705,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
       "actionid": 591,
       "actioncode": "",
       "tenantid": "mz"
@@ -8644,42 +6744,6 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 703,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 709,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 713,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 716,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 719,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 722,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
       "actionid": 809,
       "actioncode": "",
       "tenantid": "mz"
@@ -8705,30 +6769,6 @@
     {
       "rolecode": "CSC_COLL_OPERATOR",
       "actionid": 870,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 770,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 771,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 771,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 772,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -8830,30 +6870,6 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 853,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 854,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 855,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 862,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "CITIZEN",
       "actionid": 353,
       "actioncode": "",
       "tenantid": "mz"
@@ -8885,18 +6901,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 874,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 878,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 879,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -9147,12 +7151,6 @@
       "tenantid": "mz"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 839,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
       "rolecode": "ULB Operator",
       "actionid": 864,
       "actioncode": "",
@@ -9177,224 +7175,8 @@
       "tenantid": "mz"
     },
     {
-      "rolecode": "TL_CREATOR",
-      "actionid": 615,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 184,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 168,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 615,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 184,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 168,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 913,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 914,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 915,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 916,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 913,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 914,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 915,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 916,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 913,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 914,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 915,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 916,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 740,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 184,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 752,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 756,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 764,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 788,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 760,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 765,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 771,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 168,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 615,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 818,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 819,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 820,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 821,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 915,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 916,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 740,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 756,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -9447,38 +7229,8 @@
       "tenantid": "mz"
     },
     {
-      "rolecode": "TL_APPROVER",
-      "actionid": 839,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 917,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 918,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_ADMIN",
-      "actionid": 918,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 918,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 918,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -9496,12 +7248,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 919,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 920,
       "actioncode": "",
       "tenantid": "mz"
@@ -9641,24 +7387,6 @@
     {
       "rolecode": "Property Verifier",
       "actionid": 925,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 709,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 709,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 709,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -10078,30 +7806,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 935,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 936,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 937,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 937,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 938,
       "actioncode": "",
       "tenantid": "mz"
@@ -10115,72 +7819,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 940,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 941,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 942,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 943,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 944,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 944,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 944,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 944,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 945,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 945,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 945,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 945,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -10215,24 +7853,6 @@
       "tenantid": "mz"
     },
     {
-      "rolecode": "TL_ADMIN",
-      "actionid": 706,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_CREATOR",
-      "actionid": 706,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 706,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
       "rolecode": "ULB Operator",
       "actionid": 862,
       "actioncode": "",
@@ -10240,60 +7860,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 949,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 949,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 949,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 949,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 950,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 950,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 950,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 950,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 913,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 953,
       "actioncode": "",
       "tenantid": "mz"
@@ -10301,24 +7867,6 @@
     {
       "rolecode": "ULB Operator",
       "actionid": 953,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 941,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 942,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 943,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -12220,18 +9768,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 1407,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1416,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 1409,
       "actioncode": "",
       "tenantid": "mz"
@@ -12323,24 +9859,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 1221,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1423,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1424,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1425,
       "actioncode": "",
       "tenantid": "mz"
     },
@@ -14105,12 +11623,6 @@
     {
       "rolecode": "DGRO",
       "actionid": 1531,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1532,
       "actioncode": "",
       "tenantid": "mz"
     },
