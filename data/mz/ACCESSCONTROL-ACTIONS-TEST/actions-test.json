@@ -14827,6 +14827,17 @@
       "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/hf?query=true",
       "path": "iframe.HCM",
       "leftIcon": ""
+    },
+     {
+      "id": 1831,
+      "name": "Boundary relationship search",
+      "url": "/boundary-service/boundary-relationships/_search",
+      "displayName": "Boundary relationship search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
