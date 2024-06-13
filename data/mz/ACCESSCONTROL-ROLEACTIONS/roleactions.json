@@ -16279,6 +16279,120 @@
       "actionid": 1835,
       "actioncode": "",
       "tenantId": "mz"
+    },
+  {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1836,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1837,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1838,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1839,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1840,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1841,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1842,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1843,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+     {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1843,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+     {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1843,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+     {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1843,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+     {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1843,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+     {
+      "rolecode": "SUPERUSER",
+      "actionid": 1843,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+     {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1843,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1844,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1845,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1846,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1847,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1848,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
