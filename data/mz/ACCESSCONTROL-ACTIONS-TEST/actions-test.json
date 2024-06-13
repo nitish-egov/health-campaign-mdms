@@ -4288,6 +4288,50 @@
       "serviceCode": "mdms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1832,
+      "name": "boundary hierarchy definition create",
+      "url": "/boundary-service/boundary-hierarchy-definition/_create",
+      "displayName": "boundary hierarchy definition create",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1833,
+      "name": "boundary hierarchy definition search",
+      "url": "/boundary-service/boundary-hierarchy-definition/_search",
+      "displayName": "boundary hierarchy definition search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1834,
+      "name": "boundary hierarchy relationship create",
+      "url": "/boundary-service/boundary-relationships/_create",
+      "displayName": "boundary hierarchy relationship create",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1835,
+      "name": "Boundary entity Search",
+      "url": "/boundary-service/boundary/_search",
+      "displayName": "boundary entity search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
