@@ -1,34 +1,97 @@
 {
   "tenantId": "mz",
   "moduleName": "common-masters",
-  "Department": [
+  "Department":[
     {
-      "id": "1",
-      "name": "NMCP",
-      "code": "NMCP",
-      "active": true,
-      "tenantId": "mz"
+        "id": 1,
+        "code": "NMCP",
+        "name": "NMCP",
+        "active": true,
+        "tenantId": "mz"
     },
     {
-      "id": "2",
-      "name": "TECH",
-      "code": "TECH",
-      "active": true,
-      "tenantId": "mz"
+        "id": 2,
+        "code": "DHI",
+        "name": "DHI",
+        "active": true,
+        "tenantId": "mz"
     },
     {
-      "id": "3",
-      "name": "WAREHOUSE",
-      "code": "WAREHOUSE",
-      "active": true,
-      "tenantId": "mz"
+        "id": 3,
+        "code": "DICT",
+        "name": "DICT",
+        "active": true,
+        "tenantId": "mz"
     },
     {
-      "id": "4",
-      "name": "ADMINISTRATION",
-      "code": "ADM",
-      "active": true,
-      "tenantId": "mz"
+        "id": 4,
+        "code": "SPS",
+        "name": "SPS",
+        "active": true,
+        "tenantId": "mz"
+    },
+    {
+        "id": 5,
+        "code": "DPS",
+        "name": "DPS",
+        "active": true,
+        "tenantId": "mz"
+    },
+    {
+        "id": 6,
+        "code": "Visao Mundial",
+        "name": "Visao Mundial",
+        "active": true,
+        "tenantId": "mz"
+    },
+    {
+        "id": 7,
+        "code": "ADPP",
+        "name": "ADPP",
+        "active": true,
+        "tenantId": "mz"
+    },
+    {
+        "id": 8,
+        "code": "FDC",
+        "name": "FDC",
+        "active": true,
+        "tenantId": "mz"
+    },
+    {
+        "id": 9,
+        "code": "FH",
+        "name": "FH",
+        "active": true,
+        "tenantId": "mz"
+    },
+    {
+        "id": 10,
+        "code": "CHAI",
+        "name": "CHAI",
+        "active": true,
+        "tenantId": "mz"
+    },
+    {
+        "id": 11,
+        "code": "eGov",
+        "name": "eGov",
+        "active": true,
+        "tenantId": "mz"
+    },
+    {
+        "id": 12,
+        "code": "MISAU",
+        "name": "MISAU",
+        "active": true,
+        "tenantId": "mz"
+    },
+    {
+        "id": 13,
+        "code": "OTHER",
+        "name": "OTHER",
+        "active": true,
+        "tenantId": "mz"
     }
-  ]
+]
 }
