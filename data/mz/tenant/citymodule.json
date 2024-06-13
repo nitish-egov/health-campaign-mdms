@@ -13,7 +13,7 @@
         }
       ]
     },
-      {
+    {
       "module": "PGR",
       "code": "PGR",
       "active": true,
@@ -36,25 +36,19 @@
       ]
     },
     {
-      "module": "Workbench",
-      "code": "Workbench",
+      "module": "Campaign",
+      "code": "Campaign",
       "active": true,
-      "order": 13,
+      "order": 10,
       "tenants": [
         {
-          "code": "pb.jalandhar"
-        },
-        {
-          "code": "pb.nawanshahr"
-        },
-        {
-          "code": "pb.amritsar"
+          "code": "mz"
         }
       ]
     },
     {
-      "module": "HCMWORKBENCH",
-      "code": "HCMWORKBENCH",
+      "module": "Microplanning",
+      "code": "Microplanning",
       "active": true,
       "order": 14,
       "tenants": [
@@ -63,7 +57,29 @@
         }
       ]
     },
-     {
+    {
+      "module": "Workbench",
+      "code": "Workbench",
+      "active": true,
+      "order": 13,
+      "tenants": [
+        {
+          "code": "mz"
+        }
+      ]
+    },
+    {
+      "module": "HCMWORKBENCH",
+      "code": "HCMWORKBENCH",
+      "active": false,
+      "order": 14,
+      "tenants": [
+        {
+          "code": "mz"
+        }
+      ]
+    },
+    {
       "module": "Utilities",
       "code": "Utilities",
       "active": true,
