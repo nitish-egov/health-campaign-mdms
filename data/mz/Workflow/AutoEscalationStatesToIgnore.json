@@ -4,7 +4,7 @@
   "AutoEscalationStatesToIgnore": [
     {
       "businessService": "PGR",
-      "module": "TL",
+      "module": "PGR",
       "state": ["INITIATED","PENDINGAPPROVAL"]
     }
   ]

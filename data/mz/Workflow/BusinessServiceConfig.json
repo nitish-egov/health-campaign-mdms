@@ -3,7 +3,7 @@
   "moduleName": "Workflow",
   "BusinessServiceConfig": [
     {
-      "code": "NEWTL",
+      "code": "PGR",
       "isStateLevel": true
     },
     {

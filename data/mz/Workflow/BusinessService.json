@@ -5,12 +5,12 @@
     {
       "tenantId": "default",
       "uuid": "2b75575a-f84d-11e8-8eb2-f2801f1b9fd1",
-      "businessService": "NewTL",
+      "businessService": "PGR",
       "getUri": "",
       "postUri": "",
       "states": [
         {
-          "businessServiceId": "NewTL",
+          "businessServiceId": "PGR",
           "state": "INITIATED",
           "applicableNextStates": "APPLIED",
           "applicableActions": "INITIATE",
@@ -32,7 +32,7 @@
           ]
         },
         {
-          "businessServiceId": "NewTL",
+          "businessServiceId": "PGR",
           "state": "APPLIED",
           "applicableNextStates": "Paid,Cancelled,Rejected",
           "applicableActions": "Reject,Pay,Cancel,Mark",
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "businessServiceId": "NewTL",
+          "businessServiceId": "PGR",
           "state": "PAID",
           "applicableNextStates": "Intermediate",
           "applicableActions": "Approve,Cancel,Reject,Mark",
@@ -124,7 +124,7 @@
           ]
         },
         {
-          "businessServiceId": "NewTL",
+          "businessServiceId": "PGR",
           "state": "FIELDINSPECTION",
           "applicableNextStates": "Approved,Cancelled,Rejected",
           "applicableActions": "",
@@ -170,7 +170,7 @@
           ]
         },
         {
-          "businessServiceId": "NewTL",
+          "businessServiceId": "PGR",
           "state": "APPROVED",
           "applicableNextStates": "",
           "applicableActions": "CANCEL",
@@ -192,7 +192,7 @@
           ]
         },
         {
-          "businessServiceId": "NewTL",
+          "businessServiceId": "PGR",
           "state": "CANCELLED",
           "applicableNextStates": "",
           "applicableActions": "",
@@ -214,7 +214,7 @@
           ]
         },
         {
-          "businessServiceId": "NewTL",
+          "businessServiceId": "PGR",
           "state": "REJECTED",
           "applicableNextStates": "Initiated",
           "applicableActions": "Reapply",
@@ -236,7 +236,7 @@
           ]
         },
         {
-          "businessServiceId": "NewTL",
+          "businessServiceId": "PGR",
           "state": "PENDINGAPPROVAL",
           "applicableNextStates": "",
           "applicableActions": "",
@@ -274,7 +274,7 @@
           ]
         },
         {
-          "businessServiceId": "NewTL",
+          "businessServiceId": "PGR",
           "state": "",
           "applicableNextStates": "Initiated",
           "applicableActions": "INITIATE",
