@@ -12,14 +12,18 @@
     },
     {
       "code": "DAILYWAGES",
-      "active": true
+      "active": false
     },
     {
       "code": "CONTRACT",
-      "active": true
+      "active": false
     },
     {
       "code": "DEPUTATION",
+      "active": false
+    },
+    {
+      "code": "OTHERS",
       "active": true
     }
   ]
