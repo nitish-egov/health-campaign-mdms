@@ -4488,6 +4488,17 @@
       "serviceCode": "mdms",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 1850,
+      "name": "project factory data generate",
+      "url": "/project-factory/v1/data/_generate",
+      "displayName": "project factory data generate",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
   ]
 }
