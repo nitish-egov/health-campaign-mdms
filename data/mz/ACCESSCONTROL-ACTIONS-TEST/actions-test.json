@@ -4423,7 +4423,7 @@
       "code": "null",
       "path": ""
     },
-        {
+    {
       "id": 1844,
       "name": "v1 project type create",
       "url": "/project-factory/v1/project-type/create",
@@ -4472,6 +4472,17 @@
       "name": "boundary hierarchy definition search",
       "url": "/boundary-service/boundary-hierarchy-definition/_search",
       "displayName": "boundary hierarchy definition search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1849,
+      "name": "v1 project type create",
+      "url": "/project-factory/v1/project-type/search",
+      "displayName": "v1 project type create",
       "orderNumber": 0,
       "enabled": true,
       "serviceCode": "mdms",
