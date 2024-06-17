@@ -16417,6 +16417,24 @@
       "actionid": 1850,
       "actioncode": "",
       "tenantId": "mz"
-    }
+    },
+    {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1851,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+     {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1852,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+     {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1528,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
   ]
 }
