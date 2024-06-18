@@ -99,6 +99,18 @@
       "tenantId": "mz"
     },
     {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1657,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1657,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
       "rolecode": "DISTRIBUTOR",
       "actionid": 1652,
       "actioncode": "",
