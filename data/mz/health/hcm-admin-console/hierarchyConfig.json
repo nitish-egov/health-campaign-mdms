@@ -3,8 +3,8 @@
     "moduleName": "HCM-ADMIN-CONSOLE",
     "hierarchyConfig": [
       {
-        "hierarchy": "ADMIN",
-        "lowestHierarchy": "Posto Administrativo"
+        "hierarchy": "CAMPAIGN",
+        "lowestHierarchy": "ADMINSTRATIVEPOST"
       }
     ]
   }
