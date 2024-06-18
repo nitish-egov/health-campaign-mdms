@@ -16435,6 +16435,12 @@
       "actionid": 1528,
       "actioncode": "",
       "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1808,
+      "actioncode": "",
+      "tenantid": "mz"
     }
   ]
 }
