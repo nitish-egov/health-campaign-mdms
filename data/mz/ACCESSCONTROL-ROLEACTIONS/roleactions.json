@@ -16376,7 +16376,19 @@
       "actioncode": "",
       "tenantId": "mz"
     },
-     {
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 695,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 695,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
       "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1843,
       "actioncode": "",
