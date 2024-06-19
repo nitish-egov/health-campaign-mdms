@@ -2,212 +2,218 @@
   "tenantId": "mz",
   "moduleName": "HCM-ADMIN-CONSOLE",
   "deliveryConfig": [
-    {
-      "projectType": "LLIN-mz",
-      "attrAddDisable": true,
-      "deliveryAddDisable": true,
-      "customAttribute": true,
-      "cycleConfig": {
-        "cycle": 1,
-        "deliveries": 1
-      },
-      "deliveryConfig": [
-        {
-          "attributeConfig": [
+      {
+        "cycleConfig": {
+            "cycle": 4,
+            "deliveries": 3
+        },
+        "projectType": "MR-DN",
+        "attrAddDisable": false,
+        "deliveryConfig": [
             {
-              "key": 1,
-              "label": "Custom",
-              "attrType": "text",
-              "attrValue": "CAMPAIGN_BEDNET_INDIVIDUAL_LABEL",
-              "operatorValue": "LESS_THAN_EQUAL_TO",
-              "value": 3
+                "delivery": 1,
+                "conditionConfig": [
+                    {
+                        "deliveryType": "DIRECT",
+                        "disableDeliveryType": true,
+                        "productConfig": [
+                            {
+                                "key": 1,
+                                "name": "SP 250mg",
+                                "count": 1,
+                                "value": "PVAR-2024-03-21-000023"
+                            },
+                            {
+                                "key": 1,
+                                "name": "AQ 75mg",
+                                "count": 1,
+                                "value": "PVAR-2024-02-29-000019"
+                            }
+                        ],
+                        "attributeConfig": [
+                            {
+                                "key": 1,
+                                "label": "Custom",
+                                "toValue": 11,
+                                "attrType": "dropdown",
+                                "attrValue": "Age",
+                                "fromValue": 3,
+                                "operatorValue": "IN_BETWEEN"
+                            }
+                        ]
+                    },
+                    {
+                        "deliveryType": "DIRECT",
+                        "disableDeliveryType": true,
+                        "productConfig": [
+                            {
+                                "key": 1,
+                                "name": "AQ 150mg",
+                                "count": 1,
+                                "value": "PVAR-2024-02-29-000018"
+                            },
+                            {
+                                "key": 1,
+                                "name": "SP 500mg",
+                                "count": 1,
+                                "value": "PVAR-2024-03-21-000022"
+                            }
+                        ],
+                        "attributeConfig": [
+                            {
+                                "key": 1,
+                                "label": "Custom",
+                                "toValue": 59,
+                                "attrType": "dropdown",
+                                "attrValue": "Age",
+                                "fromValue": 12,
+                                "operatorValue": "IN_BETWEEN"
+                            }
+                        ]
+                    }
+                ]
             },
             {
-              "key": 2,
-              "label": "Custom",
-              "attrType": "text",
-              "attrValue": "CAMPAIGN_BEDNET_HOUSEHOLD_LABEL",
-              "operatorValue": "LESS_THAN_EQUAL_TO",
-              "value": 1.8
-            }
-          ],
-          "productConfig": [
+                "delivery": 2,
+                "conditionConfig": [
+                    {
+                        "deliveryType": "INDIRECT",
+                        "productConfig": [
+                             {
+                                "key": 1,
+                                "name": "AQ 75mg",
+                                "count": 1,
+                                "value": "PVAR-2024-02-29-000019"
+                            }
+                        ],
+                        "attributeConfig": [
+                            {
+                                "key": 1,
+                                "label": "Custom",
+                                "toValue": 11,
+                                "attrType": "dropdown",
+                                "attrValue": "Age",
+                                "fromValue": 3,
+                                "operatorValue": "IN_BETWEEN"
+                            }
+                        ]
+                    },
+                    {
+                        "deliveryType": "INDIRECT",
+                        "productConfig": [
+                            {
+                                "key": 1,
+                                "name": "AQ 150mg",
+                                "count": 1,
+                                "value": "PVAR-2024-02-29-000018"
+                            }
+                        ],
+                        "attributeConfig": [
+                            {
+                                "key": 1,
+                                "label": "Custom",
+                                "toValue": 59,
+                                "attrType": "dropdown",
+                                "attrValue": "Age",
+                                "fromValue": 12,
+                                "operatorValue": "IN_BETWEEN"
+                            }
+                        ]
+                    }
+                ]
+            },
             {
+                "delivery": 3,
+                "conditionConfig": [
+                    {
+                        "deliveryType": "INDIRECT",
+                        "productConfig": [
+                            {
+                                "key": 1,
+                                "name": "AQ 75mg",
+                                "count": 1,
+                                "value": "PVAR-2024-02-29-000019"
+                            }
+                        ],
+                        "attributeConfig": [
+                            {
+                                "key": 1,
+                                "label": "Custom",
+                                "toValue": 11,
+                                "attrType": "dropdown",
+                                "attrValue": "Age",
+                                "fromValue": 3,
+                                "operatorValue": "IN_BETWEEN"
+                            }
+                        ]
+                    },
+                    {
+                        "deliveryType": "INDIRECT",
+                        "productConfig": [
+                            {
+                                "key": 1,
+                                "name": "AQ 150mg",
+                                "count": 1,
+                                "value": "PVAR-2024-02-29-000018"
+                            }
+                        ],
+                        "attributeConfig": [
+                            {
+                                "key": 1,
+                                "label": "Custom",
+                                "toValue": 59,
+                                "attrType": "dropdown",
+                                "attrValue": "Age",
+                                "fromValue": 12,
+                                "operatorValue": "IN_BETWEEN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "customAttribute": true,
+        "deliveryAddDisable": false
+    },
+    {
+        "cycleConfig": {
+            "cycle": 1,
+            "deliveries": 1
+        },
+        "projectType": "LLIN-mz",
+        "attrAddDisable": true,
+        "deliveryConfig": [
+            {
+                "productConfig": [
+                       {
               "key": 1,
               "count": 1,
               "value": "PVAR-2024-03-21-000026",
               "name": "Bednet Grade 1"
             }
-          ]
-        }
-      ]
-    },
-    {
-      "projectType": "MR-DN",
-      "attrAddDisable": false,
-      "deliveryAddDisable": false,
-      "customAttribute": true,
-      "cycleConfig": {
-        "cycle": 3,
-        "deliveries": 3
-      },
-      "deliveryConfig": [
-        {
-          "delivery": 1,
-          "conditionConfig": [
-            {
-              "deliveryType": "DIRECT",
-              "disableDeliveryType": true,
-              "attributeConfig": [
-                {
-                  "key": 1,
-                  "label": "Custom",
-                  "attrType": "dropdown",
-                  "attrValue": "Age",
-                  "operatorValue": "IN_BETWEEN",
-                  "fromValue": 3,
-                  "toValue": 11
-                }
-              ],
-              "productConfig": [
-                {
-                  "key": 1,
-                  "count": 1,
-                  "value": "PVAR-2024-03-21-000031",
-                  "name": "AQ - 75mg"
-                },
-                {
-                  "key": 1,
-                  "count": 1,
-                  "value": "PVAR-2024-03-21-000035",
-                  "name": "SP - 250mg"
-                }
-              ]
-            },
-            {
-              "deliveryType": "DIRECT",
-              "disableDeliveryType": true,
-              "attributeConfig": [
-                {
-                  "key": 1,
-                  "label": "Custom",
-                  "attrType": "dropdown",
-                  "attrValue": "Age",
-                  "operatorValue": "IN_BETWEEN",
-                  "fromValue": 12,
-                  "toValue": 59
-                }
-              ],
-              "productConfig": [
-                {
-                  "key": 1,
-                  "count": 1,
-                  "value": "PVAR-2024-03-21-000036",
-                  "name": "AQ - 150mg"
-                }
-              ]
+                ],
+                "attributeConfig": [
+                    {
+                        "key": 1,
+                        "label": "Custom",
+                        "value": 1.8,
+                        "attrType": "text",
+                        "attrValue": "CAMPAIGN_BEDNET_INDIVIDUAL_LABEL",
+                        "operatorValue": "EQUAL_TO"
+                    },
+                    {
+                        "key": 2,
+                        "label": "Custom",
+                        "value": 3,
+                        "attrType": "text",
+                        "attrValue": "CAMPAIGN_BEDNET_HOUSEHOLD_LABEL",
+                        "operatorValue": "LESS_THAN_EQUAL_TO"
+                    }
+                ]
             }
-          ]
-        },
-        {
-          "delivery": 2,
-          "conditionConfig": [
-            {
-              "deliveryType": "INDIRECT",
-              "attributeConfig": [
-                {
-                  "key": 1,
-                  "label": "Custom",
-                  "attrType": "dropdown",
-                  "attrValue": "Age",
-                  "operatorValue": "IN_BETWEEN",
-                  "fromValue": 3,
-                  "toValue": 11
-                }
-              ],
-              "productConfig": [
-                {
-                  "key": 1,
-                  "count": 1,
-                  "value": "PVAR-2024-03-21-000031",
-                  "name": "AQ - 75mg"
-                }
-              ]
-            },
-            {
-              "deliveryType": "INDIRECT",
-              "attributeConfig": [
-                {
-                  "key": 1,
-                  "label": "Custom",
-                  "attrType": "dropdown",
-                  "attrValue": "Age",
-                  "operatorValue": "IN_BETWEEN",
-                  "fromValue": 12,
-                  "toValue": 59
-                }
-              ],
-              "productConfig": [
-                {
-                  "key": 1,
-                  "count": 1,
-                  "value": "PVAR-2024-03-21-000036",
-                  "name": "AQ - 150mg"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "delivery": 3,
-          "conditionConfig": [
-            {
-              "deliveryType": "INDIRECT",
-              "attributeConfig": [
-                {
-                  "key": 1,
-                  "label": "Custom",
-                  "attrType": "dropdown",
-                  "attrValue": "Age",
-                  "operatorValue": "IN_BETWEEN",
-                  "fromValue": 3,
-                  "toValue": 11
-                }
-              ],
-              "productConfig": [
-                {
-                  "key": 1,
-                  "count": 1,
-                  "value": "PVAR-2024-03-21-000031",
-                  "name": "AQ - 75mg"
-                }
-              ]
-            },
-            {
-              "deliveryType": "INDIRECT",
-              "attributeConfig": [
-                {
-                  "key": 1,
-                  "label": "Custom",
-                  "attrType": "dropdown",
-                  "attrValue": "Age",
-                  "operatorValue": "IN_BETWEEN",
-                  "fromValue": 12,
-                  "toValue": 59
-                }
-              ],
-              "productConfig": [
-                {
-                  "key": 1,
-                  "count": 1,
-                  "value": "PVAR-2024-03-21-000036",
-                  "name": "AQ - 150mg"
-                }
-              ]
-            }
-          ]
-        }
-      ]
+        ],
+        "customAttribute": true,
+        "deliveryAddDisable": true
     }
   ]
 }
