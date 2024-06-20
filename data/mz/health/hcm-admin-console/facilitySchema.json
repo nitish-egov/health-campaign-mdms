@@ -15,7 +15,8 @@
                 "HCM_ADMIN_CONSOLE_FACILITY_TYPE": {
                     "enum": [
                         "Warehouse",
-                        "Health Facility"
+                        "Health Facility",
+                        "Storing Resource"
                     ]
                 },
                 "HCM_ADMIN_CONSOLE_FACILITY_STATUS": {
