@@ -10,11 +10,10 @@
                     {
                         "enum": [
                             "Registrar",
-                            "Distributor",
-                            "Supervisor",
-                            "Help Desk",
-                            "Monitor Local",
-                            "Logistical officer"
+                                "Distributor",
+                                "Supervisor",
+                                "Warehouse Manager",
+                                "Health Facilty Worker"
                         ],
                         "name": "HCM_ADMIN_CONSOLE_USER_ROLE",
                         "isRequired": true,
