@@ -13,7 +13,7 @@
                                 "Distributor",
                                 "Supervisor",
                                 "Warehouse Manager",
-                                "Health Facilty Worker"
+                                "Health Facility Worker"
                         ],
                         "name": "HCM_ADMIN_CONSOLE_USER_ROLE",
                         "isRequired": true,
