@@ -172,6 +172,16 @@
           "name": "Beneficiary Absent"
         }
       ],
+        "DELIVERY_COMMENT_OPTIONS_SMC_POPULATOR": [
+        {
+          "code": "ADMINISTRATION_SUCCESSFUL",
+          "name": "Readministração com sucesso"
+        },
+        {
+          "code": "ADMINISTRATION_NOT_SUCCESSFUL",
+          "name": "Readministração sem sucesso"
+        }
+      ],
       "TRANSPORT_TYPES": [
         {
           "code": "TRANSPORT_TYPE_1",
