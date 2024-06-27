@@ -16053,6 +16053,12 @@
       "tenantId": "mz"
     },
     {
+      "rolecode": "REGISTRAR",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
       "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1831,
       "actioncode": "",
