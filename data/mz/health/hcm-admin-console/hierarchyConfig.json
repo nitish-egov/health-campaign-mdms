@@ -5,7 +5,7 @@
       {
         "hierarchy": "CAMPAIGN",
         "lowestHierarchy": "ADMINSTRATIVEPOST",
-        "splitBoundariesOn": "ADMIN_DISTRITO",
+        "splitBoundariesOn": "CAMPAIGN_DISTRITO",
         "splitBoundariesOnLength": "2"
       }
     ]
