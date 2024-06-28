@@ -4,7 +4,9 @@
     "hierarchyConfig": [
       {
         "hierarchy": "CAMPAIGN",
-        "lowestHierarchy": "ADMINSTRATIVEPOST"
+        "lowestHierarchy": "ADMINSTRATIVEPOST",
+        "splitBoundariesOn": "ADMIN_DISTRITO",
+        "splitBoundariesOnLength": "2"
       }
     ]
   }
